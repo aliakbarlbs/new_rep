@@ -1,1 +1,5 @@
 nim
+ini tanpa commit
+ini juga tanpa commit
+
+ini baru commit
